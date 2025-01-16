@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>POS Kasir | Codekop</title>
+    <title>FinreAI - Channa Team</title>
 
     <!-- Custom fonts for this template-->
     <link href="sb-admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -32,5 +32,3 @@
 
     <!-- Page Wrapper -->
     <div id="wrapper">
-
-        
